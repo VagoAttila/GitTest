@@ -1,3 +1,8 @@
 hello
 blue vagyok
+<<<<<<< HEAD
+most innen irok
+
+=======
 ide irtam
+>>>>>>> e7d318aa48d720cd1f5e39dda51bc1cd9d88c84f
